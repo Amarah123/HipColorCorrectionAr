@@ -1,3 +1,0 @@
-C:/Users/rodge/HIP/HipColorCorrectionAr/arcore-android-sdk-master/samples/computervision_c/app/.externalNativeBuild/cmake/debug/x86/CMakeFiles/rebuild_cache.dir
-C:/Users/rodge/HIP/HipColorCorrectionAr/arcore-android-sdk-master/samples/computervision_c/app/.externalNativeBuild/cmake/debug/x86/CMakeFiles/computer_vision_native.dir
-C:/Users/rodge/HIP/HipColorCorrectionAr/arcore-android-sdk-master/samples/computervision_c/app/.externalNativeBuild/cmake/debug/x86/CMakeFiles/edit_cache.dir
