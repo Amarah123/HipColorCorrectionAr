@@ -2,11 +2,11 @@
 {
 	"buildFiles" : 
 	[
-		"C:/Users/rodge/Downloads/arcore-android-sdk-master/arcore-android-sdk-master/samples/computervision_c/app/CMakeLists.txt"
+		"C:/Users/rodge/HIP/HipColorCorrectionAr/arcore-android-sdk-master/samples/computervision_c/app/CMakeLists.txt"
 	],
 	"cleanCommands" : 
 	[
-		"C:\\Users\\rodge\\AppData\\Local\\Android\\Sdk\\cmake\\3.6.4111459\\bin\\cmake.exe --build C:\\Users\\rodge\\Downloads\\arcore-android-sdk-master\\arcore-android-sdk-master\\samples\\computervision_c\\app\\.externalNativeBuild\\cmake\\debug\\arm64-v8a --target clean"
+		"C:\\Users\\rodge\\AppData\\Local\\Android\\Sdk\\cmake\\3.6.4111459\\bin\\cmake.exe --build C:\\Users\\rodge\\HIP\\HipColorCorrectionAr\\arcore-android-sdk-master\\samples\\computervision_c\\app\\.externalNativeBuild\\cmake\\debug\\arm64-v8a --target clean"
 	],
 	"cppFileExtensions" : [ "cc" ],
 	"libraries" : 
@@ -16,43 +16,43 @@
 			"abi" : "arm64-v8a",
 			"artifactName" : "arcore",
 			"buildType" : "debug",
-			"output" : "C:\\Users\\rodge\\Downloads\\arcore-android-sdk-master\\arcore-android-sdk-master\\samples\\computervision_c\\app\\build/arcore-native/jni/arm64-v8a/libarcore_sdk_c.so",
+			"output" : "C:\\Users\\rodge\\HIP\\HipColorCorrectionAr\\arcore-android-sdk-master\\samples\\computervision_c\\app\\build/arcore-native/jni/arm64-v8a/libarcore_sdk_c.so",
 			"toolchain" : "2966250145"
 		},
 		"computer_vision_native-Debug-arm64-v8a" : 
 		{
 			"abi" : "arm64-v8a",
 			"artifactName" : "computer_vision_native",
-			"buildCommand" : "C:\\Users\\rodge\\AppData\\Local\\Android\\Sdk\\cmake\\3.6.4111459\\bin\\cmake.exe --build C:\\Users\\rodge\\Downloads\\arcore-android-sdk-master\\arcore-android-sdk-master\\samples\\computervision_c\\app\\.externalNativeBuild\\cmake\\debug\\arm64-v8a --target computer_vision_native",
+			"buildCommand" : "C:\\Users\\rodge\\AppData\\Local\\Android\\Sdk\\cmake\\3.6.4111459\\bin\\cmake.exe --build C:\\Users\\rodge\\HIP\\HipColorCorrectionAr\\arcore-android-sdk-master\\samples\\computervision_c\\app\\.externalNativeBuild\\cmake\\debug\\arm64-v8a --target computer_vision_native",
 			"buildType" : "debug",
 			"files" : 
 			[
 				
 				{
-					"flags" : "  --target=aarch64-none-linux-android24 --gcc-toolchain=C:/Users/rodge/AppData/Local/Android/Sdk/ndk-bundle/toolchains/aarch64-linux-android-4.9/prebuilt/windows-x86_64 --sysroot=C:/Users/rodge/AppData/Local/Android/Sdk/ndk-bundle/sysroot  -Dcomputer_vision_native_EXPORTS -I..\\..\\..\\..\\src\\main\\cpp -IC:\\Users\\rodge\\AppData\\Local\\Android\\Sdk\\ndk-bundle\\sources\\third_party\\vulkan\\src\\libs\\glm -isystem C:\\Users\\rodge\\Downloads\\arcore-android-sdk-master\\arcore-android-sdk-master\\samples\\computervision_c\\..\\..\\libraries\\include -isystem C:\\Users\\rodge\\AppData\\Local\\Android\\Sdk\\ndk-bundle\\sources\\cxx-stl\\llvm-libc++\\include -isystem C:\\Users\\rodge\\AppData\\Local\\Android\\Sdk\\ndk-bundle\\sources\\cxx-stl\\llvm-libc++abi\\include  -isystem C:/Users/rodge/AppData/Local/Android/Sdk/ndk-bundle/sysroot/usr/include/aarch64-linux-android -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -Wa,--noexecstack -Wformat -Werror=format-security -std=c++11 -std=c++11 -Wall -O0 -fno-limit-debug-info  -fPIC    -c ",
-					"src" : "C:/Users/rodge/Downloads/arcore-android-sdk-master/arcore-android-sdk-master/samples/computervision_c/app/src/main/cpp/cpu_image_renderer.cc",
-					"workingDirectory" : "C:/Users/rodge/Downloads/arcore-android-sdk-master/arcore-android-sdk-master/samples/computervision_c/app/.externalNativeBuild/cmake/debug/arm64-v8a"
+					"flags" : "  --target=aarch64-none-linux-android24 --gcc-toolchain=C:/Users/rodge/AppData/Local/Android/Sdk/ndk-bundle/toolchains/aarch64-linux-android-4.9/prebuilt/windows-x86_64 --sysroot=C:/Users/rodge/AppData/Local/Android/Sdk/ndk-bundle/sysroot  -Dcomputer_vision_native_EXPORTS -I..\\..\\..\\..\\src\\main\\cpp -IC:\\Users\\rodge\\AppData\\Local\\Android\\Sdk\\ndk-bundle\\sources\\third_party\\vulkan\\src\\libs\\glm -isystem C:\\Users\\rodge\\HIP\\HipColorCorrectionAr\\arcore-android-sdk-master\\samples\\computervision_c\\..\\..\\libraries\\include -isystem C:\\Users\\rodge\\AppData\\Local\\Android\\Sdk\\ndk-bundle\\sources\\cxx-stl\\llvm-libc++\\include -isystem C:\\Users\\rodge\\AppData\\Local\\Android\\Sdk\\ndk-bundle\\sources\\cxx-stl\\llvm-libc++abi\\include  -isystem C:/Users/rodge/AppData/Local/Android/Sdk/ndk-bundle/sysroot/usr/include/aarch64-linux-android -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -Wa,--noexecstack -Wformat -Werror=format-security -std=c++11 -std=c++11 -Wall -O0 -fno-limit-debug-info  -fPIC    -c ",
+					"src" : "C:/Users/rodge/HIP/HipColorCorrectionAr/arcore-android-sdk-master/samples/computervision_c/app/src/main/cpp/cpu_image_renderer.cc",
+					"workingDirectory" : "C:/Users/rodge/HIP/HipColorCorrectionAr/arcore-android-sdk-master/samples/computervision_c/app/.externalNativeBuild/cmake/debug/arm64-v8a"
 				},
 				
 				{
-					"flags" : "  --target=aarch64-none-linux-android24 --gcc-toolchain=C:/Users/rodge/AppData/Local/Android/Sdk/ndk-bundle/toolchains/aarch64-linux-android-4.9/prebuilt/windows-x86_64 --sysroot=C:/Users/rodge/AppData/Local/Android/Sdk/ndk-bundle/sysroot  -Dcomputer_vision_native_EXPORTS -I..\\..\\..\\..\\src\\main\\cpp -IC:\\Users\\rodge\\AppData\\Local\\Android\\Sdk\\ndk-bundle\\sources\\third_party\\vulkan\\src\\libs\\glm -isystem C:\\Users\\rodge\\Downloads\\arcore-android-sdk-master\\arcore-android-sdk-master\\samples\\computervision_c\\..\\..\\libraries\\include -isystem C:\\Users\\rodge\\AppData\\Local\\Android\\Sdk\\ndk-bundle\\sources\\cxx-stl\\llvm-libc++\\include -isystem C:\\Users\\rodge\\AppData\\Local\\Android\\Sdk\\ndk-bundle\\sources\\cxx-stl\\llvm-libc++abi\\include  -isystem C:/Users/rodge/AppData/Local/Android/Sdk/ndk-bundle/sysroot/usr/include/aarch64-linux-android -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -Wa,--noexecstack -Wformat -Werror=format-security -std=c++11 -std=c++11 -Wall -O0 -fno-limit-debug-info  -fPIC    -c ",
-					"src" : "C:/Users/rodge/Downloads/arcore-android-sdk-master/arcore-android-sdk-master/samples/computervision_c/app/src/main/cpp/computer_vision_application.cc",
-					"workingDirectory" : "C:/Users/rodge/Downloads/arcore-android-sdk-master/arcore-android-sdk-master/samples/computervision_c/app/.externalNativeBuild/cmake/debug/arm64-v8a"
+					"flags" : "  --target=aarch64-none-linux-android24 --gcc-toolchain=C:/Users/rodge/AppData/Local/Android/Sdk/ndk-bundle/toolchains/aarch64-linux-android-4.9/prebuilt/windows-x86_64 --sysroot=C:/Users/rodge/AppData/Local/Android/Sdk/ndk-bundle/sysroot  -Dcomputer_vision_native_EXPORTS -I..\\..\\..\\..\\src\\main\\cpp -IC:\\Users\\rodge\\AppData\\Local\\Android\\Sdk\\ndk-bundle\\sources\\third_party\\vulkan\\src\\libs\\glm -isystem C:\\Users\\rodge\\HIP\\HipColorCorrectionAr\\arcore-android-sdk-master\\samples\\computervision_c\\..\\..\\libraries\\include -isystem C:\\Users\\rodge\\AppData\\Local\\Android\\Sdk\\ndk-bundle\\sources\\cxx-stl\\llvm-libc++\\include -isystem C:\\Users\\rodge\\AppData\\Local\\Android\\Sdk\\ndk-bundle\\sources\\cxx-stl\\llvm-libc++abi\\include  -isystem C:/Users/rodge/AppData/Local/Android/Sdk/ndk-bundle/sysroot/usr/include/aarch64-linux-android -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -Wa,--noexecstack -Wformat -Werror=format-security -std=c++11 -std=c++11 -Wall -O0 -fno-limit-debug-info  -fPIC    -c ",
+					"src" : "C:/Users/rodge/HIP/HipColorCorrectionAr/arcore-android-sdk-master/samples/computervision_c/app/src/main/cpp/computer_vision_application.cc",
+					"workingDirectory" : "C:/Users/rodge/HIP/HipColorCorrectionAr/arcore-android-sdk-master/samples/computervision_c/app/.externalNativeBuild/cmake/debug/arm64-v8a"
 				},
 				
 				{
-					"flags" : "  --target=aarch64-none-linux-android24 --gcc-toolchain=C:/Users/rodge/AppData/Local/Android/Sdk/ndk-bundle/toolchains/aarch64-linux-android-4.9/prebuilt/windows-x86_64 --sysroot=C:/Users/rodge/AppData/Local/Android/Sdk/ndk-bundle/sysroot  -Dcomputer_vision_native_EXPORTS -I..\\..\\..\\..\\src\\main\\cpp -IC:\\Users\\rodge\\AppData\\Local\\Android\\Sdk\\ndk-bundle\\sources\\third_party\\vulkan\\src\\libs\\glm -isystem C:\\Users\\rodge\\Downloads\\arcore-android-sdk-master\\arcore-android-sdk-master\\samples\\computervision_c\\..\\..\\libraries\\include -isystem C:\\Users\\rodge\\AppData\\Local\\Android\\Sdk\\ndk-bundle\\sources\\cxx-stl\\llvm-libc++\\include -isystem C:\\Users\\rodge\\AppData\\Local\\Android\\Sdk\\ndk-bundle\\sources\\cxx-stl\\llvm-libc++abi\\include  -isystem C:/Users/rodge/AppData/Local/Android/Sdk/ndk-bundle/sysroot/usr/include/aarch64-linux-android -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -Wa,--noexecstack -Wformat -Werror=format-security -std=c++11 -std=c++11 -Wall -O0 -fno-limit-debug-info  -fPIC    -c ",
-					"src" : "C:/Users/rodge/Downloads/arcore-android-sdk-master/arcore-android-sdk-master/samples/computervision_c/app/src/main/cpp/jni_interface.cc",
-					"workingDirectory" : "C:/Users/rodge/Downloads/arcore-android-sdk-master/arcore-android-sdk-master/samples/computervision_c/app/.externalNativeBuild/cmake/debug/arm64-v8a"
+					"flags" : "  --target=aarch64-none-linux-android24 --gcc-toolchain=C:/Users/rodge/AppData/Local/Android/Sdk/ndk-bundle/toolchains/aarch64-linux-android-4.9/prebuilt/windows-x86_64 --sysroot=C:/Users/rodge/AppData/Local/Android/Sdk/ndk-bundle/sysroot  -Dcomputer_vision_native_EXPORTS -I..\\..\\..\\..\\src\\main\\cpp -IC:\\Users\\rodge\\AppData\\Local\\Android\\Sdk\\ndk-bundle\\sources\\third_party\\vulkan\\src\\libs\\glm -isystem C:\\Users\\rodge\\HIP\\HipColorCorrectionAr\\arcore-android-sdk-master\\samples\\computervision_c\\..\\..\\libraries\\include -isystem C:\\Users\\rodge\\AppData\\Local\\Android\\Sdk\\ndk-bundle\\sources\\cxx-stl\\llvm-libc++\\include -isystem C:\\Users\\rodge\\AppData\\Local\\Android\\Sdk\\ndk-bundle\\sources\\cxx-stl\\llvm-libc++abi\\include  -isystem C:/Users/rodge/AppData/Local/Android/Sdk/ndk-bundle/sysroot/usr/include/aarch64-linux-android -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -Wa,--noexecstack -Wformat -Werror=format-security -std=c++11 -std=c++11 -Wall -O0 -fno-limit-debug-info  -fPIC    -c ",
+					"src" : "C:/Users/rodge/HIP/HipColorCorrectionAr/arcore-android-sdk-master/samples/computervision_c/app/src/main/cpp/jni_interface.cc",
+					"workingDirectory" : "C:/Users/rodge/HIP/HipColorCorrectionAr/arcore-android-sdk-master/samples/computervision_c/app/.externalNativeBuild/cmake/debug/arm64-v8a"
 				},
 				
 				{
-					"flags" : "  --target=aarch64-none-linux-android24 --gcc-toolchain=C:/Users/rodge/AppData/Local/Android/Sdk/ndk-bundle/toolchains/aarch64-linux-android-4.9/prebuilt/windows-x86_64 --sysroot=C:/Users/rodge/AppData/Local/Android/Sdk/ndk-bundle/sysroot  -Dcomputer_vision_native_EXPORTS -I..\\..\\..\\..\\src\\main\\cpp -IC:\\Users\\rodge\\AppData\\Local\\Android\\Sdk\\ndk-bundle\\sources\\third_party\\vulkan\\src\\libs\\glm -isystem C:\\Users\\rodge\\Downloads\\arcore-android-sdk-master\\arcore-android-sdk-master\\samples\\computervision_c\\..\\..\\libraries\\include -isystem C:\\Users\\rodge\\AppData\\Local\\Android\\Sdk\\ndk-bundle\\sources\\cxx-stl\\llvm-libc++\\include -isystem C:\\Users\\rodge\\AppData\\Local\\Android\\Sdk\\ndk-bundle\\sources\\cxx-stl\\llvm-libc++abi\\include  -isystem C:/Users/rodge/AppData/Local/Android/Sdk/ndk-bundle/sysroot/usr/include/aarch64-linux-android -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -Wa,--noexecstack -Wformat -Werror=format-security -std=c++11 -std=c++11 -Wall -O0 -fno-limit-debug-info  -fPIC    -c ",
-					"src" : "C:/Users/rodge/Downloads/arcore-android-sdk-master/arcore-android-sdk-master/samples/computervision_c/app/src/main/cpp/util.cc",
-					"workingDirectory" : "C:/Users/rodge/Downloads/arcore-android-sdk-master/arcore-android-sdk-master/samples/computervision_c/app/.externalNativeBuild/cmake/debug/arm64-v8a"
+					"flags" : "  --target=aarch64-none-linux-android24 --gcc-toolchain=C:/Users/rodge/AppData/Local/Android/Sdk/ndk-bundle/toolchains/aarch64-linux-android-4.9/prebuilt/windows-x86_64 --sysroot=C:/Users/rodge/AppData/Local/Android/Sdk/ndk-bundle/sysroot  -Dcomputer_vision_native_EXPORTS -I..\\..\\..\\..\\src\\main\\cpp -IC:\\Users\\rodge\\AppData\\Local\\Android\\Sdk\\ndk-bundle\\sources\\third_party\\vulkan\\src\\libs\\glm -isystem C:\\Users\\rodge\\HIP\\HipColorCorrectionAr\\arcore-android-sdk-master\\samples\\computervision_c\\..\\..\\libraries\\include -isystem C:\\Users\\rodge\\AppData\\Local\\Android\\Sdk\\ndk-bundle\\sources\\cxx-stl\\llvm-libc++\\include -isystem C:\\Users\\rodge\\AppData\\Local\\Android\\Sdk\\ndk-bundle\\sources\\cxx-stl\\llvm-libc++abi\\include  -isystem C:/Users/rodge/AppData/Local/Android/Sdk/ndk-bundle/sysroot/usr/include/aarch64-linux-android -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -Wa,--noexecstack -Wformat -Werror=format-security -std=c++11 -std=c++11 -Wall -O0 -fno-limit-debug-info  -fPIC    -c ",
+					"src" : "C:/Users/rodge/HIP/HipColorCorrectionAr/arcore-android-sdk-master/samples/computervision_c/app/src/main/cpp/util.cc",
+					"workingDirectory" : "C:/Users/rodge/HIP/HipColorCorrectionAr/arcore-android-sdk-master/samples/computervision_c/app/.externalNativeBuild/cmake/debug/arm64-v8a"
 				}
 			],
-			"output" : "C:/Users/rodge/Downloads/arcore-android-sdk-master/arcore-android-sdk-master/samples/computervision_c/app/build/intermediates/cmake/debug/obj/arm64-v8a/libcomputer_vision_native.so",
+			"output" : "C:/Users/rodge/HIP/HipColorCorrectionAr/arcore-android-sdk-master/samples/computervision_c/app/build/intermediates/cmake/debug/obj/arm64-v8a/libcomputer_vision_native.so",
 			"toolchain" : "2966250145"
 		}
 	},

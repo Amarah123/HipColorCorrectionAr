@@ -42,7 +42,7 @@ rule CXX_SHARED_LIBRARY_LINKER__computer_vision_native
 # Rule for re-running cmake.
 
 rule RERUN_CMAKE
-  command = C:\Users\rodge\AppData\Local\Android\Sdk\cmake\3.6.4111459\bin\cmake.exe -HC:\Users\rodge\Downloads\arcore-android-sdk-master\arcore-android-sdk-master\samples\computervision_c\app -BC:\Users\rodge\Downloads\arcore-android-sdk-master\arcore-android-sdk-master\samples\computervision_c\app\.externalNativeBuild\cmake\release\arm64-v8a
+  command = C:\Users\rodge\AppData\Local\Android\Sdk\cmake\3.6.4111459\bin\cmake.exe -HC:\Users\rodge\HIP\HipColorCorrectionAr\arcore-android-sdk-master\samples\computervision_c\app -BC:\Users\rodge\HIP\HipColorCorrectionAr\arcore-android-sdk-master\samples\computervision_c\app\.externalNativeBuild\cmake\release\arm64-v8a
   description = Re-running CMake...
   generator = 1
 
